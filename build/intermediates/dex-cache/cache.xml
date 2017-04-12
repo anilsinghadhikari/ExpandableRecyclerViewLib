@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/qainfotech/Downloads/ExpandableListViewDemo-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/home/qainfotech/Downloads/ExpandableListViewDemo-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-22.2.0_adacf686e752ea496381f93616512cf8a07d7c47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/qainfotech/Downloads/ExpandableListViewDemo-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="96310071e3cf432307f86cab79f5fe56d306b5a8">
+        <dex dex="/home/qainfotech/Downloads/ExpandableListViewDemo-master/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_937561ef7f1d9ba9f6f3a3654dd9c1237e14b97f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/qainfotech/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.2/f1bc476cc167b18e66c297df599b2377131a8947/gson-2.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="/home/qainfotech/Downloads/ExpandableListViewDemo-master/app/build/intermediates/pre-dexed/debug/gson-2.6.2_47c4146571d030bfe1684fddda28b8d576b8fe8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/qainfotech/Downloads/ExpandableListViewDemo-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/home/qainfotech/Downloads/ExpandableListViewDemo-master/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-22.2.0_47979169a9e041c1323a6d131145c11de739a07a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/qainfotech/Downloads/ExpandableListViewDemo-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="/home/qainfotech/Downloads/ExpandableListViewDemo-master/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-22.2.0_827853fe32e2280d6e5f39563e1485468fd61edf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/qainfotech/Downloads/ExpandableListViewDemo-master/app/libs/commons-codec-1.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4b95f4897fa13f2cd904aee711aeafc0c5295cd8">
+        <dex dex="/home/qainfotech/Downloads/ExpandableListViewDemo-master/app/build/intermediates/pre-dexed/debug/commons-codec-1.10_61942edbd9ff8397ca5e98de39ad2d097dfe60ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/qainfotech/Downloads/ExpandableListViewDemo-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/qainfotech/Downloads/ExpandableListViewDemo-master/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0_17a29c3e1bbb6b091ea5d8c8ee3a2dfb82bfcb7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/qainfotech/Downloads/ExpandableListViewDemo-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="5a29f01d4dfe0e993d8c231df0073ae63a766960">
+        <dex dex="/home/qainfotech/Downloads/ExpandableListViewDemo-master/app/build/intermediates/pre-dexed/debug/instant-run_99014533dd325978406a8751f465df0fb9902683.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/qainfotech/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/home/qainfotech/Downloads/ExpandableListViewDemo-master/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0_6fb11f847e03e93356e8832f55e02e2ead1eb01a.jar" />
+    </item>
+
+</items>
